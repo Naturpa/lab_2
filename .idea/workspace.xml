@@ -1,18 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e252304-2e4d-45a3-aad9-a4f50dd485de" name="Changes" comment="" />
+    <list default="true" id="6e252304-2e4d-45a3-aad9-a4f50dd485de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lab_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number_9.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2su9WzjWJPoNQyD7AdZdwEXpB0v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,7 +52,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Number_1.executor": "Run",
+    "Python.Number_10.executor": "Run",
+    "Python.Number_11.executor": "Run",
+    "Python.Number_13.executor": "Run",
+    "Python.Number_14.executor": "Run",
+    "Python.Number_15.executor": "Run",
+    "Python.Number_2.executor": "Run",
+    "Python.Number_3.executor": "Run",
+    "Python.Number_4.executor": "Run",
+    "Python.Number_5.executor": "Run",
+    "Python.Number_6.executor": "Run",
+    "Python.Number_7.executor": "Run",
+    "Python.Number_8.executor": "Run",
+    "Python.Number_9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
